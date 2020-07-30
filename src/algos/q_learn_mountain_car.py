@@ -93,11 +93,3 @@ def QLearning(env, learning, discount, epsilon, min_eps, episodes):
 
 # Run Q-learning algorithm
 rewards = QLearning(env, 0.2, 0.9, 0.8, 0, 5000)
-
-# Plot Rewards
-plt.plot(100 * (np.arange(len(rewards)) + 1), rewards)
-plt.xlabel('Episodes')
-plt.ylabel('Average Reward')
-plt.title('Average Reward vs Episodes')
-plt.savefig('rewards.jpg')
-plt.close()

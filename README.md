@@ -73,4 +73,6 @@ The key idea underlying policy gradients is to push up the probabilities of acti
 
 8. Amanda Iglesias Moreno: [Reinforcement learning framework and toolkits (Gym and Unity)](https://towardsdatascience.com/reinforcement-learning-framework-and-toolkits-gym-and-unity-1e047889c59a)
 
-9. Aneek Das[Introduction to Q-Learning](https://towardsdatascience.com/introduction-to-q-learning-88d1c4f2b49c)
+9. Aneek Das: [Introduction to Q-Learning](https://towardsdatascience.com/introduction-to-q-learning-88d1c4f2b49c)
+
+10. Genevieve Hayes: [Getting Started with Reinforcement Learning and Open AI Gym](https://towardsdatascience.com/getting-started-with-reinforcement-learning-and-open-ai-gym-c289aca874f)
