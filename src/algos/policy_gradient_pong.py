@@ -1,3 +1,5 @@
+""" Author: Andrei Karpaphy """
+""" https://gist.github.com/karpathy/a4166c7fe253700972fcbc77e4ea32c5  """
 """ Trains an agent with (stochastic) Policy Gradients on Pong. Uses OpenAI Gym. """
 import numpy as np
 import pickle
